@@ -27,14 +27,14 @@ int main (int argc, char **argv)
 
 	
 	//test case -- change later
-	move (1.0, 3.0);
-	rotate (2.0, 1.5707963268);
 	move (1.0, 2.0);
-	rotate (2.0, 2.3561944902);
-	move (1.0, 1.5);
-	rotate (2.0, 4.7123889804);
-	move (1.0, 1.5);
-	rotate (2.0, 2.3561944902);
+	rotate (2.0, 1.19);
+	move (1.0, 2.0);
+	rotate (2.0, 2.17);
+	move (1.0, 1.6);
+	rotate (2.0, 4.7);
+	move (1.0, 1.6);
+	rotate (2.0, 2.19);
 	move (1.0, 2.0);
 	
 	ros::spin();
