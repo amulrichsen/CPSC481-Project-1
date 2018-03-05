@@ -1,3 +1,6 @@
+//Team name: THAU
+//Member: Anette Ulrichsen		amulrichsen@csu.fullerton.edu
+//Member: Tyler Hatzenbuhler		thatzenbuhler@csu.fullerton.edu
 #include "ros/ros.h"
 #include "geometry_msgs/Twist.h"
 #include "turtlesim/Pose.h"
